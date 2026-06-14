@@ -1,0 +1,6 @@
+# 量化策略监控台 — 云端部署
+# 适用于 Streamlit Cloud / Hugging Face Spaces / 自建服务器
+
+streamlit>=1.28.0
+pandas>=2.0.0
+requests>=2.28.0
